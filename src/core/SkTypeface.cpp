@@ -268,4 +268,3 @@ bool SkTypeface::onGetKerningPairAdjustments(const uint16_t glyphs[], int count,
                                              int32_t adjustments[]) const {
     return false;
 }
-
